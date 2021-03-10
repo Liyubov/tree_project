@@ -9,5 +9,9 @@ https://www.visao-data.com/blog/les-arbres-a-paris
 
 
 # Methods 
-We use network methods and general statistics for tree data analysis.
+We use network methods and general statistics for tree data analysis. 
+The main types of algorithms applied here are: 
+1. algorithm for construction of geometric graph out of N points in locations of trees 
+2. algorithm for construction of happy walks on cities
+
 
