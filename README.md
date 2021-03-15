@@ -7,6 +7,9 @@ Inspired and started by students from Master Data Science course 2020 at CRI. Da
 The project is based on the data 
 https://www.visao-data.com/blog/les-arbres-a-paris
 
+Additional dataset can be found in https://www.data.gouv.fr/fr/datasets/arbres-en-open-data-en-france-par-namr/
+
+Additional data collection resource at https://umap.openstreetmap.fr/en/map/open-trees-memories-map_567217 
 
 # Methods 
 We use network methods and general statistics for tree data analysis. 
