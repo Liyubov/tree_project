@@ -11,6 +11,10 @@ Additional dataset can be found in https://www.data.gouv.fr/fr/datasets/arbres-e
 
 Additional data collection resource at https://umap.openstreetmap.fr/en/map/open-trees-memories-map_567217 
 
+### Ispirational links 
+Other projects working on this https://capgeo.maps.arcgis.com/apps/instant/media/index.html?appid=07f20d39ae48498dafcba7ccb86a2cca
+
+
 # Methods 
 We use network methods and general statistics for tree data analysis. 
 The main types of algorithms applied here are: 
